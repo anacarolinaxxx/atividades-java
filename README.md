@@ -1,2 +1,2 @@
 # atividades-java
-Atividades de nivelamento - Curso e Java e Orientação a Objetos
+Atividades de nivelamento - Curso de Java e Orientação a Objetos
